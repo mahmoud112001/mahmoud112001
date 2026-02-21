@@ -30,15 +30,18 @@ I am a software engineer focused on building structured, maintainable, and scala
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity & Impact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud112001&show_icons=true&theme=transparent&hide_border=true" alt="Mahmoud's GitHub Stats" />
+<p align="left">
+<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
+<img src="https://img.shields.io/github/languages/top/mahmoud112001/mahmoud112001?color=blue&style=flat-square" alt="Top Language" />
+<img src="https://img.shields.io/github/repo-size/mahmoud112001/mahmoud112001?color=blue&style=flat-square" alt="Repo Size" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud112001&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
+* **Status:** Active Developer 💻
+* **Focus:** Full-Stack & Generative AI 🤖
+* **Learning:** Advanced System Design at ITI 🏛️
+
 ---
 
 ### 📫 Connect with me
