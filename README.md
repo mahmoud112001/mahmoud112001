@@ -1,53 +1,41 @@
 # Hi, I'm Mahmoud Awad 👋 
-### Full-Stack & Generative AI Developer 🚀
+### MERN Stack & Generative AI Developer
 
-I am a software engineer focused on building structured, maintainable, and scalable systems. Currently refining my craft at the **Information Technology Institute (ITI)**, I bridge the gap between robust Backend architectures and cutting-edge AI integrations.
-
----
-
-### 🎓 Professional Background
-- 🏗️ **Currently:** Intensive Web Development Program at **ITI**.
-- 🧠 **Focus:** Clean Architecture, Design Patterns, and Production-Ready Apps.
-- 🤖 **Specialty:** Integrating Generative AI to enhance user experiences and automate workflows.
+I am a Software Engineer currently specializing in the **Full-Stack Web & Generative AI Development (MERN Track)** at the **Information Technology Institute (ITI)**. I focus on building intelligent, scalable applications by merging robust backend architectures with modern AI capabilities.
 
 ---
 
-### 🛠 Tech Stack & Expertise
+### 🎓 ITI Intensive Training (MERN & GenAI)
+* 🌐 **Full-Stack Development:** Mastered the MERN Stack (MongoDB, Express.js, React, Node.js).
+* 🤖 **Generative AI Integration:** Building AI-powered features, prompt engineering, and API integrations.
+* 🏗️ **Software Engineering:** Deep dive into Clean Code, OOP, and Design Patterns.
+
+---
+
+### 🛠 Tech Stack & Tools
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![REST_API](https://img.shields.io/badge/-REST%20APIs-blue) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
-| **AI & Tools** | ![GenAI](https://img.shields.io/badge/-Generative%20AI-orange) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Prompt_Engineering](https://img.shields.io/badge/-Prompt%20Engineering-lightgrey) |
+| **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js, RESTful APIs |
+| **Database** | MongoDB (NoSQL), SQL |
+| **AI Layer** | OpenAI APIs, Generative AI Integration, Prompt Engineering |
+| **Core Skills** | OOP, Data Structures, Design Patterns, Git/GitHub |
 
 ---
 
-### 🧠 Software Engineering Foundations
-* **Core Concepts:** OOP (Encapsulation, Inheritance, Polymorphism), Data Structures.
-* **Design Patterns:** Factory, Singleton, and Modular Architecture.
-* **Development:** Async Programming, Event Loop, and Git/GitHub Workflows.
-
----
-
-### 📊 GitHub Activity & Impact
-
-<p align="left">
-<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
-<img src="https://img.shields.io/github/languages/top/mahmoud112001/mahmoud112001?color=blue&style=flat-square" alt="Top Language" />
-<img src="https://img.shields.io/github/repo-size/mahmoud112001/mahmoud112001?color=blue&style=flat-square" alt="Repo Size" />
-</p>
-
-* **Status:** Active Developer 💻
-* **Focus:** Full-Stack & Generative AI 🤖
-* **Learning:** Advanced System Design at ITI 🏛️
+### 🚀 What I'm Working On
+- 🔭 Developing production-ready MERN applications.
+- ⚡ Integrating LLMs to create smarter user experiences.
+- ✍️ Writing clean, maintainable code following SOLID principles.
 
 ---
 
 ### 📫 Connect with me
-- 📧 **Email:** [mahmoudawad112001@gmail.com](mailto:mahmoudawad112001@gmail.com)
-- 💼 **LinkedIn:** [Mahmoud Awad](https://www.linkedin.com/in/mahmoud-awad-795b02203/)
-- 🌍 **GitHub:** [@mahmoud112001](https://github.com/mahmoud112001)
+
+* **LinkedIn:** [Mahmoud Awad](https://www.linkedin.com/in/mahmoud-awad-795b02203/)
+* **Email:** [mahmoudawad112001@gmail.com](mailto:mahmoudawad112001@gmail.com)
+* **GitHub:** [@mahmoud112001](https://github.com/mahmoud112001)
 
 ---
-*“Writing clean code is what separates a professional from a hobbyist.”*
+*“Building the future with JavaScript and Intelligence.”*
