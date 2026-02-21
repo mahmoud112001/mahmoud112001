@@ -33,11 +33,11 @@ I am a software engineer focused on building structured, maintainable, and scala
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud112001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mahmoud's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud112001&show_icons=true&theme=transparent&hide_border=true" alt="Mahmoud's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud112001&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud112001&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 ---
 
