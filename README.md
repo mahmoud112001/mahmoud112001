@@ -10,13 +10,6 @@ I am a Software Engineer currently specializing in the **Full-Stack Web & Genera
 * 🤖 **Generative AI Integration:** Building AI-powered features, prompt engineering, and API integrations.
 * 🏗️ **Software Engineering:** Deep dive into Clean Code, OOP, and Design Patterns.
 
----
-
-### 🔥 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -37,6 +30,14 @@ I am a Software Engineer currently specializing in the **Full-Stack Web & Genera
 - ⚡ Integrating LLMs to create smarter user experiences.
 - ✍️ Writing clean, maintainable code following SOLID principles.
 
+---
+
+
+
+### 🔥 GitHub Streak Stats
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&starting_year=2026" alt="GitHub Streak" />
+</p>
 ---
 
 ### 📫 Connect with me
