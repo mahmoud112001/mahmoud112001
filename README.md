@@ -31,14 +31,10 @@ I am a Software Engineer currently specializing in the **Full-Stack Web & Genera
 - ✍️ Writing clean, maintainable code following SOLID principles.
 
 ---
-
-
-
 ### 🔥 GitHub Streak Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud112001&theme=tokyonight&hide_border=false&starting_year=2026-01-01" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud112001&theme=tokyonight&hide_border=false&mode=yearly&starting_year=2026" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 📫 Connect with me
