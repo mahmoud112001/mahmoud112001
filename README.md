@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi there, I'm Mahmoud Awad 👋
-### MERN Stack & Generative AI Developer
+### MEARN Stack & Generative AI Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vAlign=middle&width=600&lines=Full-Stack+MERN+Developer;Generative+AI+Engineer;Clean+Code+Advocate;Building+Intelligent+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vAlign=middle&width=600&lines=Full-Stack+MEARN+Developer;Generative+AI+Engineer;Clean+Code+Advocate;Building+Intelligent+Applications)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/mahmoud-awad-795b02203/">
@@ -23,15 +23,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** specializing in **Full-Stack Web & Generative AI Development** at the **Information Technology Institute (ITI) — MERN Track**.
+I'm a **Software Engineer** specializing in **Full-Stack Web & Generative AI Development** at the **Information Technology Institute (ITI) — MEARN Track**.
 
 I build intelligent, scalable applications by combining robust backend architectures with modern AI capabilities. My focus is on writing clean, maintainable code that solves real-world problems.
 
 ```javascript
 const mahmoud = {
-  role:       "Full-Stack MERN & GenAI Developer",
+  role:       "Full-Stack MEARN & GenAI Developer",
   institute:  "Information Technology Institute (ITI)",
-  track:      "MERN Stack & Generative AI",
+  track:      "MEARN Stack & Generative AI",
   focus:      ["Scalable Web Apps", "AI Integration", "Clean Architecture"],
   motto:      "Building the future with JavaScript and Intelligence 🚀"
 };
@@ -39,16 +39,32 @@ const mahmoud = {
 
 ---
 
-## 🎓 ITI Intensive Training — MERN & GenAI Track
+## 🎓 ITI Intensive Training — MEARN & GenAI Track
 
 | Area | What I Learned |
 | :--- | :--- |
-| 🌐 **Full-Stack Development** | Mastered the MERN Stack — MongoDB, Express.js, React, Node.js |
+| 🌐 **Full-Stack Development** | Mastering the MEARN Stack — MongoDB, Express.js, Angular, React, Node.js |
 | 🤖 **Generative AI Integration** | AI-powered features, prompt engineering, OpenAI API integrations |
 | 🏗️ **Software Engineering** | Clean Code, OOP, SOLID Principles, Design Patterns |
 | 🗄️ **Databases** | MongoDB (NoSQL), SQL — schema design and query optimization |
 
 ---
+
+## 🗺️ Learning Roadmap
+
+```
+✅  HTML · CSS · JavaScript
+✅  TypeScript · Angular
+✅  MongoDB · SQL
+🔄  Express.js        ← currently here
+⏳  React.js
+⏳  Node.js Advanced
+⏳  Generative AI & OpenAI APIs
+⏳  System Design & Architecture
+```
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ### 🎨 Frontend
@@ -57,14 +73,14 @@ const mahmoud = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ECMAScript](https://img.shields.io/badge/ECMAScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🎨 Styling & Design
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CSS Preprocessor](https://img.shields.io/badge/CSS_Preprocessor-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![RWD](https://img.shields.io/badge/Responsive_Design-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ### ⚙️ Backend
@@ -90,19 +106,35 @@ const mahmoud = {
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 Featured Projects
 
-- 🔭 Building **production-ready MERN applications** with real-world architecture
-- 🤖 Integrating **LLMs & OpenAI APIs** to create smarter user experiences
+| Project | Description | Tech | Links |
+| :--- | :--- | :--- | :--- |
+| 🎮 **Hangman Game** | Browser-based word guessing game with lives tracking and win/lose logic | HTML · CSS · JS | [Live](https://mahmoud112001.github.io/Hangman_web_project/) · [Repo](https://github.com/mahmoud112001/Hangman_web_project) |
+| 🗃️ **CRUD App** | Employee management system with full Create, Read, Update, Delete operations | HTML · CSS · JS | [Repo](https://github.com/mahmoud112001/CRUD) |
+| 🅰️ **Angular Course** | Collection of Angular labs covering components, routing, directives, services & data binding | Angular · TypeScript · Bootstrap | [Live](https://mahmoud112001.github.io/Angular_course/) · [Repo](https://github.com/mahmoud112001/Angular_course) |
+| 🌐 **Basic JS Labs** | Full set of HTML, CSS & JavaScript fundamental exercises and mini-projects | HTML · CSS · JS | [Repo](https://github.com/mahmoud112001/BasicJs) |
+
+---
+
+## 🔭 What I'm Currently Working On
+
+- 🅰️ Building a **full Angular portfolio** with components, routing and data binding
+- 📚 Mastering **Express.js** and RESTful API design
 - ✍️ Practicing **SOLID principles** and clean code in every project
-- 📚 Deepening expertise in **system design** and scalable architectures
+- 🤖 Exploring **Generative AI integration** in web applications
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud112001&theme=tokyonight&from_year=2026"/>
+
+<br/><br/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud112001&layout=compact&theme=tokyonight&hide_border=false"/>
 
 </div>
 
@@ -132,7 +164,7 @@ const mahmoud = {
 
 <div align="center">
 
-### 💬 *"Building the future with JavaScript and Intelligence."*
+### 💬 *"First, solve the problem. Then, write the code."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoud112001&color=00d9ff&style=for-the-badge)
 
