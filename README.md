@@ -53,10 +53,10 @@ const mahmoud = {
 ## 🗺️ Learning Roadmap
 
 ```
-✅  HTML · CSS · JavaScript
-✅  TypeScript · Angular
-✅  MongoDB · SQL
-🔄  Express.js        ← currently here
+✅  HTML · CSS · JavaScript        ← BasicJs Labs (6 labs)
+✅  TypeScript · Angular           ← Angular Course
+✅  MongoDB · SQL                  ← HackerRank certified
+🔄  Express.js · Node.js           ← currently here
 ⏳  React.js
 ⏳  Node.js Advanced
 ⏳  Generative AI & OpenAI APIs
@@ -113,14 +113,14 @@ const mahmoud = {
 | 🎮 **Hangman Game** | Browser-based word guessing game with lives tracking and win/lose logic | HTML · CSS · JS | [Live](https://mahmoud112001.github.io/Hangman_web_project/) · [Repo](https://github.com/mahmoud112001/Hangman_web_project) |
 | 🗃️ **CRUD App** | Employee management system with full Create, Read, Update, Delete operations | HTML · CSS · JS | [Repo](https://github.com/mahmoud112001/CRUD) |
 | 🅰️ **Angular Course** | Collection of Angular labs covering components, routing, directives, services & data binding | Angular · TypeScript · Bootstrap | [Live](https://mahmoud112001.github.io/Angular_course/) · [Repo](https://github.com/mahmoud112001/Angular_course) |
-| 🌐 **Basic JS Labs** | Full set of HTML, CSS & JavaScript fundamental exercises and mini-projects | HTML · CSS · JS | [Repo](https://github.com/mahmoud112001/BasicJs) |
+| 🌐 **Basic JS Labs** | Full set of HTML, CSS & JavaScript fundamental exercises and mini-projects — 6 labs | HTML · CSS · JS | [Live](https://mahmoud112001.github.io/BasicJs/) · [Repo](https://github.com/mahmoud112001/BasicJs) |
 
 ---
 
 ## 🔭 What I'm Currently Working On
 
-- 🅰️ Building a **full Angular portfolio** with components, routing and data binding
 - 📚 Mastering **Express.js** and RESTful API design
+- 🗄️ Building **Node.js** backend APIs with MongoDB
 - ✍️ Practicing **SOLID principles** and clean code in every project
 - 🤖 Exploring **Generative AI integration** in web applications
 
