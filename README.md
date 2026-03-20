@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Mahmoud Awad 👋
-### Full-Stack MEARN Developer · Generative AI Engineer
+### Full-Stack MEARN Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vAlign=middle&width=600&lines=Full-Stack+MEARN+Developer;Generative+AI+Engineer;Clean+Code+Advocate;Building+Intelligent+Web+Apps)](https://git.io/typing-svg)
 
