@@ -139,7 +139,7 @@ const mahmoud = {
 | 💼 **LinkedIn** | [Mahmoud Awad](https://www.linkedin.com/in/mahmoud-awad-795b02203/) |
 | 📧 **Email** | [mahmoudawad112001@gmail.com](mailto:mahmoudawad112001@gmail.com) |
 | 🐙 **GitHub** | [@mahmoud112001](https://github.com/mahmoud112001) |
-| 🌐 **Portfolio** | [mahmoud112001.github.io/BasicJs](https://mahmoud112001.github.io/BasicJs/) |
+| 🌐 **Portfolio** | [Portfolio]([https://mahmoud112001.github.io/BasicJs/](https://mahmoud112001.github.io/Angular_course/first_angular_project/)) |
 
 </div>
 
