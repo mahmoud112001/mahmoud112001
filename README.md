@@ -95,41 +95,41 @@ const mahmoud = {
 
 <p align="center">
   <a href="https://github.com/mahmoud112001/Angular_course">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=Angular_course&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Angular Course"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=Angular_course&theme=tokyonight&hide_border=true" alt="Angular Course" />
   </a>
   <a href="https://github.com/mahmoud112001/BasicJs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=BasicJs&theme=tokyonight&hide_border=true&bg_color=00000000" alt="BasicJs"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=BasicJs&theme=tokyonight&hide_border=true" alt="BasicJs" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mahmoud112001/JS-Game-Station">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=JS-Game-Station&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Hangman Web Project"/>
+  <a href="https://github.com/mahmoud112001/Hangman_web_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=Hangman_web_project&theme=tokyonight&hide_border=true" alt="Hangman Web Project" />
   </a>
   <a href="https://github.com/mahmoud112001/CRUD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=CRUD&theme=tokyonight&hide_border=true&bg_color=00000000" alt="CRUD Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=CRUD&theme=tokyonight&hide_border=true" alt="CRUD Project" />
   </a>
 </p>
-
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmoud112001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud112001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages"/>
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mahmoud112001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud112001&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mahmoud112001&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud112001&theme=tokyo-night&hide_border=true" width="800" alt="GitHub activity graph"/>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud112001&theme=tokyonight" alt="Profile details"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud112001&theme=tokyonight" width="800" alt="Profile details"/>
+</p>
 
 ---
+
 
 ## 📫 Let's Connect
 
