@@ -49,11 +49,11 @@ const mahmoud = {
 ✅ HTML · CSS · JavaScript          ← Core frontend foundations
 ✅ TypeScript · Angular             ← Component architecture & SPA concepts
 ✅ MongoDB · SQL                    ← Database fundamentals
-🔄 Node.js · Express.js             ← Backend APIs & server-side development
-⏳ React.js                         ← Modern frontend workflow
+✅ OpenAI APIs & AI Integration     ← Practical GenAI in web apps
+🔄 React.js                         ← Modern frontend workflow
+🔄 System Design & Clean Architecture
+⏳ Node.js · Express.js             ← Backend APIs & server-side development
 ⏳ Advanced Node.js                 ← Auth, architecture, scaling
-⏳ OpenAI APIs & AI Integration     ← Practical GenAI in web apps
-⏳ System Design & Clean Architecture
 ```
 
 ---
