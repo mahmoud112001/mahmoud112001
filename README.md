@@ -89,25 +89,23 @@ const mahmoud = {
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
----
-
 ## 🚀 Featured Work
 
 <p align="center">
   <a href="https://github.com/mahmoud112001/Angular_course">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=Angular_course&theme=tokyonight&hide_border=true" alt="Angular Course" />
+    <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mahmoud112001&repo=Angular_course&theme=tokyonight&hide_border=true" alt="Angular Course" />
   </a>
   <a href="https://github.com/mahmoud112001/BasicJs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=BasicJs&theme=tokyonight&hide_border=true" alt="BasicJs" />
+    <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mahmoud112001&repo=BasicJs&theme=tokyonight&hide_border=true" alt="BasicJs" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mahmoud112001/Hangman_web_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=Hangman_web_project&theme=tokyonight&hide_border=true" alt="Hangman Web Project" />
+  <a href="https://github.com/mahmoud112001/JS-Game-Station">
+    <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mahmoud112001&repo=JS-Game-Station&theme=tokyonight&hide_border=true" alt="JS Game Station" />
   </a>
   <a href="https://github.com/mahmoud112001/CRUD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=CRUD&theme=tokyonight&hide_border=true" alt="CRUD Project" />
+    <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mahmoud112001&repo=CRUD&theme=tokyonight&hide_border=true" alt="CRUD Project" />
   </a>
 </p>
 
@@ -116,20 +114,19 @@ const mahmoud = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mahmoud112001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud112001&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud112001&theme=tokyo-night&hide_border=true" width="800" alt="GitHub activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud112001&theme=tokyonight" width="800" alt="Profile details"/>
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmoud112001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmoud112001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahmoud112001&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+
+---
 
 ## 📫 Let's Connect
 
