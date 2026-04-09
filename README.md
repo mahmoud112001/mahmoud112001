@@ -62,7 +62,7 @@ const mahmoud = {
 - Building stronger **React** fundamentals through real projects
 - Learning **Node.js + Express** for production-style backend APIs
 - Improving **clean code**, **project structure**, and **scalable frontend thinking**
-- Exploring **AI integration** in practical web applications
+- Exploring **AI integration** in practical web applications 
 
 ---
 
