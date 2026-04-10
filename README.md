@@ -31,7 +31,7 @@
 - 🏫 Currently training at **ITI Alexandria** in the **Full-Stack Web & Generative AI (MEARN Track)**
 - 🔧 Building **scalable web applications** with a strong focus on **clean structure, maintainability, and real-world project thinking**
 - 🤖 Interested in **AI integration**, **prompt engineering**, and **OpenAI-powered web experiences**
-- 📌 Open to **Internship** and **Junior Developer** opportunities
+- 📌 Open to **Internship** and **Junior Developer** opportunities 
 
 ```javascript
 const mahmoud = {
