@@ -39,9 +39,10 @@ const mahmoud = {
   currentStage: "ITI Alexandria — MEARN & Generative AI Track",
   focus: ["Frontend Foundations", "React", "Node.js", "API-Driven Apps", "AI Integration"],
   mindset: "Build real projects. Learn deeply. Keep improving."
-};---
+};
 ```
 
+---
 
 ## 🗺️ Learning Roadmap
 
@@ -53,10 +54,12 @@ const mahmoud = {
 🔄 React.js                         ← Modern frontend workflow
 🔄 System Design & Clean Architecture
 ⏳ Node.js · Express.js             ← Backend APIs & server-side development
+⏳ Next.js                          ← Full-stack React framework
 ⏳ Advanced Node.js                 ← Auth, architecture, scaling
 ```
 
 ---
+
 ## 🎯 What I'm Focused On
 
 - Building stronger **React** fundamentals through real projects
@@ -68,14 +71,14 @@ const mahmoud = {
 
 ## 🛠️ Tech Stack
 
-### Languages & Frontend
+### Languages & Frontend Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react" alt="frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs" alt="frontend"/>
 </p>
 
 ### Styling & UI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass" alt="styling"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" alt="styling"/>
 </p>
 
 ### Backend & Databases
@@ -83,11 +86,13 @@ const mahmoud = {
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="backend"/>
 </p>
 
-### Tools & Workflow
+### Tools & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,vercel,postman,vscode,figma" alt="tools"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
+
+---
 
 ## 🚀 Featured Work
 
@@ -119,12 +124,20 @@ const mahmoud = {
 </p>
 
 ---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mahmoud112001&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmoud112001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
 
 ---
 
@@ -137,7 +150,7 @@ const mahmoud = {
 | 💼 **LinkedIn** | [Mahmoud Awad](https://www.linkedin.com/in/mahmoud-awad-795b02203/) |
 | 📧 **Email** | [mahmoudawad112001@gmail.com](mailto:mahmoudawad112001@gmail.com) |
 | 🐙 **GitHub** | [@mahmoud112001](https://github.com/mahmoud112001) |
-| 🌐 **Portfolio** | [@Portfolio](https://mahmoud112001.github.io/Angular_course/first_angular_project/)|
+| 🌐 **Portfolio** | [View Portfolio](https://mahmoud112001.github.io/Angular_course/first_angular_project/)|
 
 </div>
 
