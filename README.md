@@ -133,13 +133,6 @@ const mahmoud = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoud112001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
 
 ## 📫 Let's Connect
 
