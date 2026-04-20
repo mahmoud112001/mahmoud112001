@@ -232,13 +232,11 @@ const roadmap = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
 ## 🏅 GitHub Trophies
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mahmoud112001/mahmoud112001/main/assets/trophy.svg" alt="GitHub Trophies" />
 </div>
-
 ---
 
 ## 🐍 Contribution Graph
