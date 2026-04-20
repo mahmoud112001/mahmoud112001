@@ -236,13 +236,9 @@ const roadmap = {
 ## 🏅 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahmoud112001&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=86400" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=mahmoud112001&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=6" />
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ---
 
 ## 🐍 Contribution Graph
