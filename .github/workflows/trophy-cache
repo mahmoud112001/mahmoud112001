@@ -1,0 +1,57 @@
+name: Cache Trophy SVG
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Every Monday at 6 AM UTC
+  workflow_dispatch:        # Also runnable manually
+
+permissions:
+  contents: write
+
+jobs:
+  cache-trophy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Fetch trophy SVG (tries endpoints in order)
+        run: |
+          ENDPOINTS=(
+            "https://github-profile-trophy.vercel.app/?username=mahmoud112001&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=6"
+            "https://github-profile-trophy-liard-delta.vercel.app/?username=mahmoud112001&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=6"
+            "https://github-profile-trophy-fork-two.vercel.app/?username=mahmoud112001&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=6"
+            "https://github-profile-trophy-winning.vercel.app/?username=mahmoud112001&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=6"
+            "https://github-profile-trophy-kannan.vercel.app/?username=mahmoud112001&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=6"
+            "https://github-trophies.vercel.app/?username=mahmoud112001&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=6"
+          )
+
+          SUCCESS=false
+          for URL in "${ENDPOINTS[@]}"; do
+            echo "Trying: $URL"
+            HTTP_CODE=$(curl -s -o assets/trophy.svg -w "%{http_code}" --max-time 15 "$URL")
+            if [ "$HTTP_CODE" = "200" ] && grep -q "<svg" assets/trophy.svg; then
+              echo "✅ Success from: $URL"
+              SUCCESS=true
+              break
+            else
+              echo "❌ Failed ($HTTP_CODE) from: $URL"
+            fi
+          done
+
+          if [ "$SUCCESS" = false ]; then
+            echo "⚠️ All endpoints failed — keeping existing cached SVG"
+            exit 0
+          fi
+
+      - name: Commit updated trophy SVG
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add assets/trophy.svg
+          git diff --staged --quiet && echo "No changes to commit" || git commit -m "chore: update cached trophy SVG [skip ci]"
+          git push
