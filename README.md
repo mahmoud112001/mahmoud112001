@@ -3,6 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,50:059669,100:047857&height=120&section=header&fontSize=0"/>
 
 <h1>
+  
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=16A34A&center=true&vCenter=true&width=435&lines=Mahmoud+Awad;Full-Stack+Engineer;MEARN+%2B+AI+Builder" alt="Typing SVG" />
 </h1>
 
