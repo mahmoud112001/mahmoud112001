@@ -17,12 +17,14 @@
   <a href="https://www.linkedin.com/in/mahmoud-awad-795b02203/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
   <a href="mailto:mahmoudawad112001@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/mahmoud112001">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  
   <a href="https://mahmoud112001.github.io/Hangman_web_project/landing/index.html">
     <img src="https://img.shields.io/badge/Portfolio-%2316a34a.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
