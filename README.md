@@ -13,6 +13,7 @@
   <em>Computer Engineering Graduate · ITI Alexandria · Building production-grade web applications</em>
 </p>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-awad-795b02203/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
