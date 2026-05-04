@@ -20,6 +20,7 @@
   </a>
   
   
+  
   <a href="mailto:mahmoudawad112001@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
