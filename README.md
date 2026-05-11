@@ -141,7 +141,6 @@ I build real web applications — from vanilla JavaScript game engines to full-s
 </a>
 
 **[Angular Portfolio SPA](https://mahmoud112001.github.io/Angular_course/first_angular_project/)** — Modular single-page application with TypeScript strict mode, lazy-loaded routes, and RxJS-driven state management.
-
 </td>
 </tr>
 <tr>
