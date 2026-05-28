@@ -47,7 +47,7 @@
 University:    AAST — Computer Engineering
 GPA:           3.247 / 4.0
 Capstone:      A+ Grade (IoT + Cloud System)
-Competition:   ECPC Participant × 2 (2022, 2023)
+Competition:   ECPC Participant × 2 (2020, 2026)
 ```
 
 </td>
