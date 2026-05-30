@@ -203,6 +203,7 @@ Current:
   - Clean Architecture
 ```
 
+
 </td>
 <td width="33%" align="center">
 
