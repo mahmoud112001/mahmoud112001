@@ -76,7 +76,7 @@ I build real web applications — from vanilla JavaScript game engines to full-s
 
 ### Frontend & State Management
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
   <img src="https://img.shields.io/badge/Tailwind_CSS_v4-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://skillicons.dev/icons?i=sass,bootstrap,redux&theme=dark" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white"/>
@@ -84,38 +84,42 @@ I build real web applications — from vanilla JavaScript game engines to full-s
 
 ### Backend & API Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,graphql&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
 </p>
 
 ### DevOps, Caching & Message Brokers
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,redis,kafka&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,kafka&theme=dark" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-222222?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
 ### Tools & Ecosystem
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite&theme=dark" />
 </p>
 
 ### AI & Generative AI
 <p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-16a34a?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/GenAI_Integration-059669?style=for-the-badge&logoColor=white"/>
 </p>
 
 ### Architecture, Design & Testing Principles
 <p>
+  <img src="https://img.shields.io/badge/System_Design-1A56A0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA-1A56A0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVC_Architecture-1A56A0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/OOP-1A56A0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/SOLID_Principles-1A56A0?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design_Patterns_(GoF)-1A56A0?style=for-the-badge&logoColor=white"/>
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Design_Patterns_(GoF)-1A56A0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clean_Architecture-1A56A0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API_Design-1A56A0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/TDD_&_Unit_Testing-1A56A0?style=for-the-badge&logoColor=white"/>
@@ -124,6 +128,7 @@ I build real web applications — from vanilla JavaScript game engines to full-s
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+---
 ---
 
 ## 🏆 Achievements
