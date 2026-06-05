@@ -67,6 +67,7 @@ Goal:       Ship production-grade products
 I build real web applications — from vanilla JavaScript game engines to full-stack MEARN platforms with AI integration. I care about clean architecture, SOLID principles, and shipping things that actually work in production.
 
 ---
+
 ## ⚡ Tech Stack
 
 ### Languages
@@ -76,8 +77,7 @@ I build real web applications — from vanilla JavaScript game engines to full-s
 
 ### Frontend & State Management
 <p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react,materialui,tailwind&theme=dark" />
   <img src="https://skillicons.dev/icons?i=sass,bootstrap,redux&theme=dark" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white"/>
 </p>
@@ -128,7 +128,7 @@ I build real web applications — from vanilla JavaScript game engines to full-s
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+
 ---
 
 ## 🏆 Achievements
