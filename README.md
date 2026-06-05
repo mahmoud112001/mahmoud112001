@@ -68,7 +68,9 @@ I build real web applications — from vanilla JavaScript game engines to full-s
 
 ---
 
-## ⚡ Tech Stack
+## <div align="center">⚡ Tech Stack</div>
+
+<div align="center">
 
 ### Languages
 <p>
@@ -79,6 +81,8 @@ I build real web applications — from vanilla JavaScript game engines to full-s
 <p>
   <img src="https://skillicons.dev/icons?i=react,materialui,tailwind&theme=dark" />
   <img src="https://skillicons.dev/icons?i=sass,bootstrap,redux&theme=dark" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white"/>
 </p>
 
@@ -95,6 +99,8 @@ I build real web applications — from vanilla JavaScript game engines to full-s
 ### DevOps, Caching & Message Brokers
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,kafka&theme=dark" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-222222?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
@@ -126,8 +132,9 @@ I build real web applications — from vanilla JavaScript game engines to full-s
   <img src="https://img.shields.io/badge/SDD_Documentation-1A56A0?style=for-the-badge&logoColor=white"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
