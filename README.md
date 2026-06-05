@@ -67,9 +67,6 @@ Goal:       Ship production-grade products
 I build real web applications — from vanilla JavaScript game engines to full-stack MEARN platforms with AI integration. I care about clean architecture, SOLID principles, and shipping things that actually work in production.
 
 ---
-
-
-
 ## ⚡ Tech Stack
 
 ### Languages
@@ -77,20 +74,28 @@ I build real web applications — from vanilla JavaScript game engines to full-s
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript&theme=dark" />
 </p>
 
-### Frontend
+### Frontend & State Management
 <p>
   <img src="https://skillicons.dev/icons?i=angular,react&theme=dark" />
   <img src="https://img.shields.io/badge/Tailwind_CSS_v4-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=sass,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=sass,bootstrap,redux&theme=dark" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white"/>
 </p>
 
-
-### Backend & Databases
+### Backend & API Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql&theme=dark" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
 </p>
 
-### Tools & DevOps
+### DevOps, Caching & Message Brokers
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,redis,kafka&theme=dark" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-222222?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+### Tools & Ecosystem
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vite&theme=dark" />
 </p>
@@ -102,12 +107,19 @@ I build real web applications — from vanilla JavaScript game engines to full-s
   <img src="https://img.shields.io/badge/GenAI_Integration-059669?style=for-the-badge&logoColor=white"/>
 </p>
 
-### Principles & Patterns
+### Architecture, Design & Testing Principles
 <p>
+  <img src="https://img.shields.io/badge/DSA-1A56A0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVC_Architecture-1A56A0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-1A56A0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/SOLID_Principles-1A56A0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Design_Patterns_(GoF)-1A56A0?style=for-the-badge&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Clean_Architecture-1A56A0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API_Design-1A56A0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TDD_&_Unit_Testing-1A56A0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SDD_Documentation-1A56A0?style=for-the-badge&logoColor=white"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
