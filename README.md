@@ -56,7 +56,7 @@ Competition:   ECPC Participant × 2 (2020, 2026)
 ```yaml
 Program:    ITI Alexandria — Full-Stack MEARN & GenAI
 Track:      MEARN Stack + OpenAI API Integration
-Status:     Jan 2026 → Jun 2026 (Active)
+Status:     Jan 2026 → Jun 2026 (Wrapping Up)
 Goal:       Ship production-grade products
 ```
 
@@ -138,14 +138,30 @@ I build real web applications — from vanilla JavaScript game engines to full-s
 
 ---
 
+## 🇪🇬 Why This Stack
+
+Egypt's web hiring market is consolidating around one combination — and it's not by accident. **ITI**, Egypt's flagship government-backed training institute, anchors its 2026 cohort on exactly this pairing: **MEARN + GenAI integration**.
+
+```yaml
+Why MEARN + AI is the bet to make in Egypt right now:
+  - One language end-to-end:   JavaScript/TypeScript across frontend, backend, and tooling
+  - One hire, full coverage:   Frontend + Backend + DB + AI features from a single engineer
+  - Fastest path to MVP:       What startups and outsourcing houses actually optimize for
+  - GenAI is now expected:     OpenAI API integration moved from differentiator to baseline
+```
+
+I'm not just learning this stack — I'm shipping production features with it.
+
+---
+
 ## 🏆 Achievements
 
 - 🎓 **Computer Engineering Graduate** — AAST University · GPA 3.247 · Capstone Grade: **A+**
 - 🏅 **ECPC Participant × 2** — Egyptian Collegiate Programming Contest (2022, 2023) — Egypt's national competitive programming championship
-- 🚀 **ITI Full-Stack Trainee** — 500+ hours of intensive MEARN + Generative AI training at Egypt's top government tech institute
+- 🚀 **ITI Full-Stack Trainee** — 600+ hours of intensive MEARN + Generative AI training at Egypt's top government tech institute, now in its final weeks
 - 📦 **7 Live Projects Deployed** — spanning Vanilla JS, Angular SPA, React with full auth, SOLID architecture guides, and UI/UX prototypes
 - 🤖 **AI Integration Experience** — integrated OpenAI APIs into production web features as part of ITI Generative AI track
-- ⭐ **67 Reactions on a single LinkedIn post** — learning-in-public post about ITI journey reached 1,500+ impressions
+- ⭐ **200+ Reactions on a single LinkedIn post** — learning-in-public post about the ITI journey reached 6,000+ impressions
 
 ---
 
