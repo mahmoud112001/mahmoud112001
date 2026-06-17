@@ -38,7 +38,6 @@
 ---
 ## 🎓 About Me
 
-
 <table align="center">
 <tr>
 <td width="50%" valign="top">
