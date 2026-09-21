@@ -1,18 +1,16 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,50:059669,100:047857&height=120&section=header&fontSize=0"/>
-<h1>
 
-  
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=16A34A&center=true&vCenter=true&width=435&lines=Mahmoud+Awad;Full-Stack+Engineer;MEARN+%2B+AI+Builder" alt="Typing SVG" />
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=16A34A&center=true&vCenter=true&width=435&lines=Mahmoud+Awad;Backend+Engineer;Node.js+%2B+TypeScript;Systems+Builder" alt="Typing SVG" />
 </h1>
 
-
 <p align="center">
-  <em>Computer Engineering Graduate · ITI Alexandria · Building production-grade web applications</em>
+  <em>Computer Engineering Graduate · ITI Alexandria · Building production-grade backend systems</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-awad-795b02203/">
+  <a href="https://www.linkedin.com/in/eng-mahmoudawad/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mahmoudawad112001@gmail.com">
@@ -21,21 +19,14 @@
   <a href="https://github.com/mahmoud112001">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
-  
-  <a href="https://mahmoud112001.github.io/Hangman_web_project/landing/index.html">
-    <img src="https://img.shields.io/badge/Portfolio-%2316a34a.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=mahmoud112001&color=16a34a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 </div>
 
 ---
+
 ## 🎓 About Me
 
 <table align="center">
@@ -43,92 +34,148 @@
 <td width="50%" valign="top">
 
 ```yaml
-University:    AAST — Computer Engineering
-GPA:           3.247 / 4.0
-Capstone:      A+ Grade (IoT + Cloud System)
-Competition:   ECPC Participant × 2 (2020, 2026)
+University:  AASTMT — Computer Engineering
+GPA:         3.25 / 4.0
+Capstone:    A+ Grade (IoT + Cloud System)
+ECPC:        #23 nationally (2020) · #34/600+ (2026)
 ```
 
 </td>
 <td width="50%" valign="top">
 
 ```yaml
-Program:    ITI Alexandria — Full-Stack MEARN & GenAI
-Track:      MEARN Stack + OpenAI API Integration
-Status:     Jan 2026 → Jun 2026 (Wrapping Up)
-Goal:       Ship production-grade products
+Program:  ITI Alexandria — Full-Stack MEARN & GenAI
+Track:    MEARN Stack + OpenAI API Integration
+Hours:    600+ intensive hours
+Focus:    Backend systems, clean architecture, real test coverage
 ```
 
 </td>
 </tr>
 </table>
 
-I build real web applications — from vanilla JavaScript game engines to full-stack MEARN platforms with AI integration. I care about clean architecture, SOLID principles, and shipping things that actually work in production.
+I build backend systems — from REST APIs with JWT auth and RAG pipelines to monorepo dev-tooling platforms with real test coverage. I care about clean architecture, SOLID principles, and shipping things that are built to be maintained, not just deployed.
 
 ---
 
-## <div align="center">⚡ Tech Stack</div>
+## ⚡ Tech Stack
 
 <div align="center">
 
-### Languages
+### 🔤 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
 </p>
 
-### Frontend & State Management
+---
+
+### 🖥️ Backend & API Engineering
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,materialui,tailwind&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=sass,bootstrap,redux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API_Design-16a34a?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVC_Architecture-16a34a?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSE_Streaming-16a34a?style=for-the-badge&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" />
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </p>
 
-### Backend & API Engineering
+---
+
+### 🗄️ Databases
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### DevOps, Caching & Message Brokers
+---
+
+### 📨 Messaging, Queues & Real-time
+
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,kafka&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq,redis&theme=dark" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-1A56A0?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+### ☁️ DevOps, Infrastructure & CI/CD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-222222?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Load_Balancing-1A56A0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-### Tools & Ecosystem
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite&theme=dark" />
-</p>
+---
 
-### AI & Generative AI
-<p>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-16a34a?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GenAI_Integration-059669?style=for-the-badge&logoColor=white"/>
-</p>
+### 🏗️ Architecture & Design Principles
 
-### Architecture, Design & Testing Principles
 <p>
+  <img src="https://img.shields.io/badge/Clean_Architecture-1A56A0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOLID_Principles-1A56A0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-1A56A0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design_Patterns_(GoF)-1A56A0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/System_Design-1A56A0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA-1A56A0?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVC_Architecture-1A56A0?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-1A56A0?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SOLID_Principles-1A56A0?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+### 🧪 Testing & Documentation
+
+<p>
+  <img src="https://img.shields.io/badge/TDD-16a34a?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unit_Testing_(Jest)-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supertest-16a34a?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SDD_Documentation-1A56A0?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+### 🤖 AI & Generative AI
+
+<p>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-059669?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-059669?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+### 🎨 Frontend (Familiarity)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,sass,bootstrap&theme=dark" />
+</p>
+
+---
+
+### 🛠️ Tools & Ecosystem
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Design_Patterns_(GoF)-1A56A0?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-1A56A0?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API_Design-1A56A0?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TDD_&_Unit_Testing-1A56A0?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SDD_Documentation-1A56A0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm_Workspaces_(Monorepo)-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 </div>
@@ -137,30 +184,14 @@ I build real web applications — from vanilla JavaScript game engines to full-s
 
 ---
 
-## 🇪🇬 Why This Stack
-
-Egypt's web hiring market is consolidating around one combination — and it's not by accident. **ITI**, Egypt's flagship government-backed training institute, anchors its 2026 cohort on exactly this pairing: **MEARN + GenAI integration**.
-
-```yaml
-Why MEARN + AI is the bet to make in Egypt right now:
-  - One language end-to-end:   JavaScript/TypeScript across frontend, backend, and tooling
-  - One hire, full coverage:   Frontend + Backend + DB + AI features from a single engineer
-  - Fastest path to MVP:       What startups and outsourcing houses actually optimize for
-  - GenAI is now expected:     OpenAI API integration moved from differentiator to baseline
-```
-
-I'm not just learning this stack — I'm shipping production features with it.
-
----
-
 ## 🏆 Achievements
 
-- 🎓 **Computer Engineering Graduate** — AAST University · GPA 3.247 · Capstone Grade: **A+**
-- 🏅 **ECPC Participant × 2** — Egyptian Collegiate Programming Contest (2022, 2023) — Egypt's national competitive programming championship
-- 🚀 **ITI Full-Stack Trainee** — 600+ hours of intensive MEARN + Generative AI training at Egypt's top government tech institute, now in its final weeks
-- 📦 **7 Live Projects Deployed** — spanning Vanilla JS, Angular SPA, React with full auth, SOLID architecture guides, and UI/UX prototypes
-- 🤖 **AI Integration Experience** — integrated OpenAI APIs into production web features as part of ITI Generative AI track
-- ⭐ **200+ Reactions on a single LinkedIn post** — learning-in-public post about the ITI journey reached 6,000+ impressions
+- 🎓 **Computer Engineering Graduate** — AASTMT · GPA 3.25/4.0 · Capstone Grade: **A+**
+- 🏅 **ECPC × 2** — Egyptian Collegiate Programming Contest · **#23 nationally** (2020, team "The Warriors") · **#34 of 600+** (2026)
+- 🚀 **ITI Full-Stack Trainee** — 600+ hours of intensive MERN + GenAI training at Egypt's top government tech institute
+- 🧪 **67 Automated Tests** — Am Ghareeb backend covered by 6 suites (Jest/Supertest) with clean MVC service-layer separation
+- 📦 **3 Production-Grade Backend Systems** — Am Ghareeb (RAG + AI), LogFlow (monorepo dev tooling), Employee Management System
+- ⭐ **200+ Reactions** on a single LinkedIn post — learning-in-public about the ITI journey reached 6,000+ impressions
 
 ---
 
@@ -170,39 +201,40 @@ I'm not just learning this stack — I'm shipping production features with it.
 <tr>
 <td width="50%">
 
-<a href="https://github.com/mahmoud112001/Hangman_web_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=Hangman_web_project&theme=react&bg_color=0d1117&border_color=16a34a&title_color=16a34a&icon_color=16a34a&text_color=c9d1d9" />
+<a href="https://github.com/mahmoud112001">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=Am-Ghareeb&theme=react&bg_color=0d1117&border_color=16a34a&title_color=16a34a&icon_color=16a34a&text_color=c9d1d9" />
 </a>
 
-**[JS Game Station](https://mahmoud112001.github.io/Hangman_web_project/landing/index.html)** — 4 playable games built in Vanilla JS with SOLID architecture, interactive design patterns guide, and full accessibility support.
+**Am Ghareeb — AI Transit Advisor** — Production-grade REST API (22 endpoints), JWT refresh-token rotation, Google OAuth, SSE streaming, RAG pipeline over MongoDB route data. 67 passing tests across 6 suites.
 
 </td>
 <td width="50%">
 
-<a href="https://github.com/mahmoud112001/Angular_course">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=Angular_course&theme=react&bg_color=0d1117&border_color=16a34a&title_color=16a34a&icon_color=16a34a&text_color=c9d1d9" />
+<a href="https://github.com/mahmoud112001">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=LogFlow&theme=react&bg_color=0d1117&border_color=16a34a&title_color=16a34a&icon_color=16a34a&text_color=c9d1d9" />
 </a>
 
-**[Angular Portfolio SPA](https://mahmoud112001.github.io/Angular_course/first_angular_project/)** — Modular single-page application with TypeScript strict mode, lazy-loaded routes, and RxJS-driven state management.
+**LogFlow — Dev Log Management Platform** — Monorepo (npm workspaces) with REST API backend, React dashboard, and client SDK. JWT/API-key auth, Helmet, rate limiting, real-time log visibility.
+
 </td>
 </tr>
 <tr>
+<td width="50%">
+
+<a href="https://github.com/mahmoud112001/Hangman_web_project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=Hangman_web_project&theme=react&bg_color=0d1117&border_color=16a34a&title_color=16a34a&icon_color=16a34a&text_color=c9d1d9" />
+</a>
+
+**[JS Game Station](https://mahmoud112001.github.io/Hangman_web_project/landing/index.html)** — SOLID-principles module adopted by ITI as a teaching reference. 4 playable games, zero framework dependencies, interactive design patterns guide.
+
+</td>
 <td width="50%">
 
 <a href="https://github.com/mahmoud112001/Design_Patterns_JS">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=Design_Patterns_JS&theme=react&bg_color=0d1117&border_color=16a34a&title_color=16a34a&icon_color=16a34a&text_color=c9d1d9" />
 </a>
 
-**[Design Patterns Guide](https://mahmoud112001.github.io/Design_Patterns_JS/)** — 10+ GoF design patterns implemented in modern JavaScript with interactive browser demos and annotated examples.
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/mahmoud112001/BasicJs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoud112001&repo=BasicJs&theme=react&bg_color=0d1117&border_color=16a34a&title_color=16a34a&icon_color=16a34a&text_color=c9d1d9" />
-</a>
-
-**[JS Fundamentals Lab Series](https://mahmoud112001.github.io/BasicJs/)** — 6 progressive web labs covering DOM manipulation, ES6+ features, async/await, and browser APIs — each deployed live.
+**[Design Patterns Guide](https://mahmoud112001.github.io/Design_Patterns_JS/)** — 10+ GoF design patterns in modern JavaScript with interactive browser demos and annotated examples.
 
 </td>
 </tr>
@@ -212,21 +244,57 @@ I'm not just learning this stack — I'm shipping production features with it.
 
 ---
 
+## 💼 Experience
+
+```yaml
+i-fikra:
+  role:    Backend Developer Intern (Node.js)
+  period:  Current
+  stack:   Node.js · Express · REST APIs · MVC
+
+Devora:
+  role:    Backend Developer Intern (Node.js)
+  period:  Current
+  stack:   Node.js · Express · REST APIs · Agile · Git
+
+YallaExpand:
+  role:    Backend Developer Intern (Node.js)
+  period:  Jul 2026 – Sep 2026
+  work:    Feature development on live production codebase — REST API design,
+           MVC architecture, Agile sprints, code review
+
+Huma Volve:
+  role:    Frontend React Intern
+  period:  Aug 2026 (1 month)
+  work:    React + Tailwind UI components, REST API data integration
+
+ITI Alexandria:
+  role:    Full-Stack & Generative AI Intern
+  period:  Jan 2026 – Jun 2026
+  work:    600+ hours MERN · Delivered 3 production-ready apps
+           SOLID module became an ITI teaching reference
+```
+
+---
+
 ## 🗺️ Learning Trajectory
 
 <table align="center" width="90%">
 <tr>
 <td width="33%" align="center">
 
-**✅ Completed**
+**✅ Shipped**
 ```diff
-+ HTML, CSS, JavaScript (ES6+)
-+ TypeScript & Angular SPA
-+ SCSS, Bootstrap, Tailwind v4
-+ SOLID Principles & GoF Patterns
++ Node.js & Express.js (production)
++ REST API Design & MVC
++ JWT + OAuth 2.0 Auth
++ MongoDB & Mongoose
++ RAG Pipelines (OpenAI)
++ Jest / Supertest (67 tests)
++ npm Workspaces (Monorepo)
++ SOLID & GoF Patterns
 + Git & GitHub Workflows
-+ MongoDB & MySQL Basics
-+ OpenAI API Integration
++ React 19 (familiarity)
 ```
 
 </td>
@@ -235,13 +303,14 @@ I'm not just learning this stack — I'm shipping production features with it.
 **🔄 Active (2026)**
 ```yaml
 Current:
-  - React 19 + React Router v7
-  - Formik / Yup Validation
-  - Context API & Auth Flows
-  - Node.js & Express.js APIs
-  - Clean Architecture
+  - NestJS
+  - PostgreSQL (deeper)
+  - GraphQL APIs
+  - WebSockets / Socket.io
+  - BullMQ & RabbitMQ
+  - Microservices patterns
+  - gRPC
 ```
-
 
 </td>
 <td width="33%" align="center">
@@ -249,10 +318,10 @@ Current:
 **⏳ Next**
 ```javascript
 const roadmap = {
-  backend: ['REST APIs', 'JWT Auth'],
-  database: ['MongoDB Advanced'],
-  architecture: ['System Design'],
-  deployment: ['CI/CD', 'Docker'],
+  infra:    ['Docker', 'Kubernetes', 'CI/CD'],
+  scale:    ['Load Balancing', 'Redis caching'],
+  patterns: ['Clean Arch at scale', 'DDD'],
+  cloud:    ['AWS basics'],
 }
 ```
 
@@ -261,6 +330,23 @@ const roadmap = {
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🇪🇬 Why Backend in Egypt
+
+Egypt's backend hiring market is consolidating around one combination — and it's not by accident. **ITI**, Egypt's flagship government-backed training institute, grounds its engineers in exactly this pairing: **Node.js/Express + Clean Architecture**.
+
+```yaml
+Why backend-first makes sense in Egypt right now:
+  - Startups & outsourcing houses need reliable APIs above all else
+  - One strong backend engineer unblocks entire product teams
+  - Node.js dominates Egyptian backend roles in 2026 job boards
+  - AI features (RAG, SSE streaming) are now backend responsibilities
+  - Clean code + real test coverage is still a differentiator locally
+```
+
+I'm not just learning this stack — I'm shipping production features with it across multiple internships.
 
 ---
 
@@ -278,12 +364,6 @@ const roadmap = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mahmoud112001/mahmoud112001/main/assets/trophy.svg" alt="GitHub Trophies" />
-</div>
 ---
 
 ## 🐍 Contribution Graph
@@ -309,7 +389,7 @@ const roadmap = {
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://www.linkedin.com/in/mahmoud-awad-795b02203/">
+<a href="https://www.linkedin.com/in/eng-mahmoudawad/">
 <img src="https://img.icons8.com/fluency/96/linkedin.png" width="60"/><br/>
 <b>LinkedIn</b><br/>
 <sub>Professional Network</sub>
@@ -341,7 +421,7 @@ const roadmap = {
 
 <br/>
 
-> *"Build real projects. Learn deeply. Ship it."*
+> *"Build real systems. Test everything. Ship what lasts."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,50:059669,100:047857&height=100&section=footer"/>
 
